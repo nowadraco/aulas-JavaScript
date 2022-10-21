@@ -1,2 +1,1 @@
-const precoetiqueta = 100;
-const teste = 1
+const precoetiqueta = 100
