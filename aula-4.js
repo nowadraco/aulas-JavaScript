@@ -2,7 +2,7 @@ function calcularImc(peso, altura) {
     return peso / Math.pow(altura, 2);
 }
 
-function clasificarimc(imc) {
+function clasificarImc(imc) {
     if(imc < 18.5){
         return'abaixo do peso'
     }else if ( imc >=18.5 && imc < 25 ){
@@ -16,7 +16,12 @@ function clasificarimc(imc) {
     }
 }
 
+function main(){
 const peso = 67;
 const altura = 1.62;
 const imc = calcularImc(peso, altura);
 console.log(imc.toFixed(2));
+console.log(clasificarImc(imc))
+}
+
+main()
