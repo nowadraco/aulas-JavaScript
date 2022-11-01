@@ -8,4 +8,13 @@ for (let i = 0; i < 5; i++) {
     
 }
 
-print(numerosSorteados)
+let maiornumero = 0
+
+for (var i = 0; i < numerosSorteados.length ; i++) {
+  const numerosSorteado = numerosSorteados[i]
+  if (numerosSorteado > maiorvalor) {
+    maiorvalor = numerosSorteado;
+  }
+}
+
+print(maiorvalor)
