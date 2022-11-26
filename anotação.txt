@@ -16,3 +16,7 @@ livro
 https://subscription.packtpub.com/search?query=javascript&_ga=2.17473467.32577674.1669426742-2099200214.1669426742
 
 livros
+
+
+https://libgen.rs/book/index.php?md5=A1D07C83FC4213CFAC2755ACD8939208
+ler
