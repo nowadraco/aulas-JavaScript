@@ -20,3 +20,7 @@ livros
 
 https://libgen.rs/book/index.php?md5=A1D07C83FC4213CFAC2755ACD8939208
 ler
+
+
+fazer barras 
+https://www.treinaweb.com.br/blog/barra-de-progresso-que-muda-de-tamanho-e-cor-com-apenas-uma-variavel-do-css
