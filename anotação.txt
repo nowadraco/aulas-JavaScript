@@ -24,3 +24,7 @@ ler
 
 fazer barras 
 https://www.treinaweb.com.br/blog/barra-de-progresso-que-muda-de-tamanho-e-cor-com-apenas-uma-variavel-do-css
+
+
+barra de status
+https://jsfiddle.net/Nowadraco/y517cd4z/
