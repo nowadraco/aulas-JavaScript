@@ -16,12 +16,21 @@ function clasificarImc(imc) {
     }
 }
 
-function main(){
-const peso = 67;
-const altura = 1.62;
-const imc = calcularImc(peso, altura);
-console.log(imc.toFixed(2));
-console.log(clasificarImc(imc))
-}
+// refatorado na linha 30 
+// function main(){
+// const peso = 67;
+// const altura = 1.62;
+// const imc = calcularImc(peso, altura);
+// console.log(imc.toFixed(2));
+// console.log(clasificarImc(imc))
+// // }
 
-main()
+// main()
+
+(function (){
+    const peso = 85;
+    const altura = 1.65;
+    const imc = calcularImc(peso, altura);
+    console.log(imc.toFixed(2));
+    console.log(clasificarImc(imc))
+    })();
